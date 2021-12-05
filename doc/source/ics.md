@@ -8,6 +8,7 @@ This source has been successfully tested with the following service providers:
 - [Abfall Landkreis Stade](https://abfall.landkreis-stade.de/)
 - [Abfallkalender Zollernalbkreis](https://www.zollernalbkreis.de/landratsamt/aemter++und+organisation/Elektronischer+Abfallkalender) ([Example](#abfallkalender-zollernalbkreis))
 - [Abfallwirtschaft Kreis Böblingen](https://www.lrabb.de/start/Service+_+Verwaltung/Abfuhrtermine.html)
+- [Abfalltermine Landkreis Reutlingen] (https://www.kreis-reutlingen.de/de/Service-Verwaltung/Buergerservice-A-Z/Abfallentsorgung/Abfalltermine-2017)
 - [AVL Ludwigsburg](https://www.avl-ludwigsburg.de/) ([Example](#avl-ludwigsburg))
 - [ASR Chemnitz](https://www.asr-chemnitz.de/kundenportal/entsorgungskalender/)
 - [AWB Esslingen](https://www.awb-es.de/)
@@ -19,6 +20,7 @@ This source has been successfully tested with the following service providers:
 - [Entsorgungsgesellschaft Görlitz-Löbau-Zittau](https://www.abfall-eglz.de/abfallkalender.0.html) ([Notes](#entsorgungsgesellschaft-görlitz-löbau-zittau))
 - [Müllabfuhr-Deutschland](https://www.muellabfuhr-deutschland.de/) ([Notes](#müllabfuhr-deutschland))
 - [Stadtreinigung Leipzig](https://www.stadtreinigung-leipzig.de/)
+
 
 ### Sweden
 - [NSR Nordvästra Skåne](https://nsr.se/privat/allt-om-din-sophamtning/nar-toms-mitt-karl/tomningskalender/)
